@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "C_Cpp.vcFormat.space.betweenEmptyLambdaBrackets": true,
+    "C_Cpp.vcFormat.space.betweenEmptyParameterListParentheses": true,
+    "C_Cpp.vcFormat.space.betweenEmptySquareBrackets": true,
+    "C_Cpp.vcFormat.space.betweenEmptyBraces": true,
+    "C_Cpp.vcFormat.space.beforeOpenSquareBracket": true,
+    "C_Cpp.vcFormat.space.beforeLambdaOpenParenthesis": true,
+    "C_Cpp.vcFormat.space.beforeInitializerListOpenBrace": true,
+    "C_Cpp.vcFormat.space.beforeEmptySquareBrackets": true,
+    "C_Cpp.vcFormat.space.beforeComma": true
+
+}
