@@ -26,7 +26,7 @@ int iteration_num = 50;                     //进化50代
 /****************************************/
  
 //将染色体定义为结构体类型
-typedef struct Chromosome                          
+typedef struct Chromosome //染色体                          
 {   
     short int bit[Chromosome_length];           //染色体二进制码串
     double value;                                           //二进制代码对应的实际值
