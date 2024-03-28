@@ -14,6 +14,11 @@
     "C_Cpp.vcFormat.space.beforeLambdaOpenParenthesis": true,
     "C_Cpp.vcFormat.space.beforeInitializerListOpenBrace": true,
     "C_Cpp.vcFormat.space.beforeEmptySquareBrackets": true,
-    "C_Cpp.vcFormat.space.beforeComma": true
+    "C_Cpp.vcFormat.space.beforeComma": true,
+    "editor.wordWrap": "bounded",
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Rec Mono Duotone, 霞骛文楷等宽",
+    "editor.codeLensFontFamily": "Rec Mono Duotone, 霞骛文楷等宽"
 
 }
