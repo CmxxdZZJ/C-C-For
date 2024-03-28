@@ -3,7 +3,7 @@
         "iostream": "cpp"
     },
     "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorStyle": "line",
+    "editor.cursorStyle": "block",
     "editor.cursorBlinking": "smooth",
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "C_Cpp.vcFormat.space.betweenEmptyLambdaBrackets": true,
