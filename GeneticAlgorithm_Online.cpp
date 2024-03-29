@@ -49,7 +49,7 @@ void fresh_property(chromosome(&population_current)[Population_size]);
 void seletc_prw(chromosome(&population_current)[Population_size], chromosome(&population_next_generation)[Population_size], chromosome &best_individual);
 //交叉操作
 void crossover(chromosome (&population_next_generation)[Population_size]);  
-//突变操作
+//突变操作   mutation：变异
 void mutation(chromosome (&population_next_generation)[Population_size]);
 /****************************************/
  
@@ -89,10 +89,11 @@ int main()
     /****************************************/
  
  
-    printf("\nWelcome to the Genetic Algorithm！\n");  //   
+    printf("\nWelcome to the Genetic Algorithm!\n");  //   
     printf("The Algorithm is based on the function y = -x^2 + 5 to find the maximum value of the function.\n");
  
-enter:printf("\nPlease enter the no. of iterations\n请输入您要设定的迭代数 : ");
+enter:
+    printf("\nPlease enter the no. of iterations\n请输入您要设定的迭代数 : ");
     // 输入迭代次数，传送给参数 iteration_num
     scanf_s("%d", &iteration_num);                           
  
