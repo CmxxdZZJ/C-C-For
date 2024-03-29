@@ -238,7 +238,7 @@ void fresh_property(chromosome (&population_current)[Population_size])
 //chromosome (&population_current)[Population_size] 当前代种群的引用
 //chromosome (&population_next_generation)[Population_size] 选择出的下一代种群的引用
 //chromosome &best_individual 当前代种群中的最优个体
-void seletc_prw(chromosome (&population_current)[Population_size],chromosome (&population_next_generation)[Population_size],chromosome &best_individual)
+void seletc_prw(chromosome (&population_current)[Population_size], chromosome (&population_next_generation)[Population_size],         chromosome &  best_individual)
 {
  
     int i = 0, j = 0;
