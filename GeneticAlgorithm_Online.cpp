@@ -8,12 +8,12 @@
 //具体参数可以事先给定
  
 /****************************************/
-#include <cstdio>  
+#include <stdio.h>  
 #include <conio.h>  
-#include <cstdlib>  
+#include <stdlib.h>  
 #include <time.h>  
 #include <iostream>
-#include <cmath>  
+#include <math.h>  
  
 using namespace std;
  
