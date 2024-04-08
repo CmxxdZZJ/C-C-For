@@ -5,7 +5,7 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "block",
     "editor.cursorBlinking": "smooth",
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
     "C_Cpp.vcFormat.space.betweenEmptyLambdaBrackets": true,
     "C_Cpp.vcFormat.space.betweenEmptyParameterListParentheses": true,
     "C_Cpp.vcFormat.space.betweenEmptySquareBrackets": true,
